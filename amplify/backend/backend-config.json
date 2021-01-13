@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "amazonpracticec48d187b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
